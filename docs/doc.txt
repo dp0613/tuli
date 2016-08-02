@@ -1,0 +1,94 @@
+﻿ADMIN
+Tổng quan	
+Bài viết	
+	Viết bài mới
+	Danh mục
+	Bài viết
+	Bài nháp
+	Bình luận
+Người dùng
+Thiết lập
+Quảng cáo
+	Quản lý
+	Thống kê
+Giao diện
+	Thememiz
+	Menu
+	Quản lý
+Công cụ
+	Cơ sở dữ liệu
+		Dọn dẹp
+		Xuất / Nhập
+	Media
+	Ghi chú
+	Email
+	Nhật ký hệ thống
+TuliFi
+	Giao diện
+	Explorer
+TuliFe
+TuliCmt
+TuliAna
+TuliHi
+Ngôn ngữ
+	Quản lý
+	Dịch
+=============================================
+TỔNG QUAN:
+- Hiện email
+- Hiện ghi chú
+- Hiện update
+- Thống kê ( biểu đồ lượt truy cập và lượt view bài viết )
+- Biểu đồ quảng cáo
+=============================================
+THIẾT LẬP
+- Tên blog
+- Slogan
+- Favicon
+- Logo
+- Kiểu url
+- Ngôn ngữ
+- Email admin
+- Đóng blog
+- Cho phép đăng ký
+- Trả lời thư tự động
+- Chặn IP
+- Nén gzip server
+- Nén hình ảnh
+- Cache
+=============================================
+TULIFI
+- Là app cho phép quản lý các file được upload, có cả giao diện để người dùng download
+- Chức năng:
+	+ Cài / Tùy chỉnh giao diện front-end
+	+ File explorer ( cho phép download / chỉnh sửa text / nén / giải nén / lấy link )
+=============================================
+TULIFE
+- Là app hiển thị chọn lọc các bài viết mới nhất hoặc hay nhất từ nhiều nguồn khác nhau
+- Chức năng:
+	+ Chọn nguồn từ danh sách
+	+ Thêm nguồn RSS bất kỳ
+	+ Giao diện hiển thị bắt mắt
+	+ Cho phép bỏ bài viết / yêu thích / ...
+=============================================
+TULICMT
+- Widget comment
+- Chức năng: Cho phép chỉnh sửa giao diện
+=============================================
+TULIANA
+- Là app phân tích hiệu năng phần frontend (các theme)
+- Gợi ý chỉnh sửa để blog đạt hiệu năng tối đa
+=============================================
+TULIHI
+- Plugin hilight code
+- Chức năng:
+	+ Cho phép tùy chỉnh style cho từng tag / từng ngôn ngữ
+	+ Quản lý ngôn ngữ lập trình
+	
+	
+
+
+
+
+	
+ 
